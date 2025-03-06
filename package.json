@@ -1,0 +1,15 @@
+{
+  "name": "marketmozo",
+  "version": "1.0.0",
+  "description": "This is a grocery booking app which is based on different backend technologies along with the ejs and tailwind css for styling . MongoDB and ExpressJS as well.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10"
+  }
+}
